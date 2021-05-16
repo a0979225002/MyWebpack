@@ -4,3 +4,7 @@ html,body{
     height: 100%;
     background-color: pink;
 }
+.test{
+    color: aquamarine;
+    font-size: 100px;
+}
